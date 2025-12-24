@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+.DS_Store
+*.log
+.vercel
+
+# Deployment configs
+fly.toml
+vercel.json
+
+# Build artifacts
+*.tsbuildinfo
